@@ -47,7 +47,7 @@ a {
 }
 
 p {
-    font-size: 16px;
+    font-size: 18px; /*Change from 16px to 18px for web accessibility */
 }
 
 .hero {
