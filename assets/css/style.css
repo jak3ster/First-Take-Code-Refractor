@@ -83,7 +83,7 @@ p {
     width: 20%;
     height: 100%;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    background-color: #005B94; /*Change from #2589BD to #005B94 for web accessibility */
+    background-color: #005B94; /* Change background-color from #2589BD to #005B94 for web accessibility */
 }
 
 /* .benefit-lead {
@@ -101,6 +101,7 @@ p {
     color: #ffffff;
 } */
 
+/* Consolidated .benefit-brand,.benefit-cost,.benefit-lead using the property settings */
 .benefit-brand,.benefit-cost,.benefit-lead {
     margin-bottom: 32px;
     color: #fff
@@ -121,6 +122,7 @@ p {
     text-align: center;
 } */
 
+/* Consolidated .benefit-brand h3,.benefit-cost h3,.benefit-lead h3 using the property settings */
 .benefit-brand h3,.benefit-cost h3,.benefit-lead h3 {
     margin-bottom: 10px;
     text-align: center
@@ -144,6 +146,7 @@ p {
     max-width: 150px;
 } */
 
+/* Consolidated .benefit-brand img,.benefit-cost img,.benefit-lead img using the property settings */
 .benefit-brand img,.benefit-cost img,.benefit-lead img {
     display: block;
     margin: 10px auto;
@@ -177,6 +180,7 @@ p {
     color: #ffffff;
 } */
 
+/* Consolidated .online-reputation-management,.search-engine-optimization,.social-media-marketing using the property settings */
 .online-reputation-management,.search-engine-optimization,.social-media-marketing {
     margin-bottom: 20px;
     padding: 50px;
@@ -198,6 +202,7 @@ p {
     max-height: 200px;
 } */
 
+/* Consolidated .online-reputation-management img,.search-engine-optimization img,.social-media-marketing img using the property settings */
 .online-reputation-management img,.search-engine-optimization img,.social-media-marketing img {
     max-height: 200px
 }
@@ -217,6 +222,7 @@ p {
     font-size: 36px;
 } */
 
+/* Consolidated .online-reputation-management h2,.search-engine-optimization h2,.social-media-marketing h2 using the property settings */
 .online-reputation-management h2,.search-engine-optimization h2,.social-media-marketing h2 {
     margin-bottom: 20px;
     font-size: 36px
